@@ -37,7 +37,7 @@
       <div class="flex mx-auto">
         <div class="flex flex-col items-center" data-slide='1'>
           <span class="scene-1-title-1 text-5xl font-black">Piotr Szewczyk</span><br>
-          <span class="scene-1-title-3 font-normal text-2xl">PHP Developer / QA Tester</span>
+          <span class="scene-1-title-3 font-normal text-2xl">PHP Developer / Software Tester</span>
           <a class="a-liquid mt-6" href="/CV.pdf"><span>Zobacz CV</span><div class="liquid"></div></a>
         </div>
       </div>
